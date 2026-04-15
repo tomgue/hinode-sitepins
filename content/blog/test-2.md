@@ -1,8 +1,8 @@
 ---
 title: Test 2
 date: ""
-type: ""
-author: ""
+type: "blog"
+author: "Thomas"
 thumbnail:
   url: ""
   author: ""
@@ -10,4 +10,4 @@ thumbnail:
   origin: ""
   originURL: ""
 ---
-
+Test 2
