@@ -1,6 +1,5 @@
 {
   "file": "content/blog/test.md",
-  "name": "blog",
   "fileType": "md",
   "fmType": "yaml",
   "template": [
@@ -86,6 +85,16 @@
           "defaultValue": ""
         }
       ]
+    },
+    {
+      "name": "draft",
+      "label": "Draft",
+      "type": "boolean",
+      "value": false,
+      "description": "",
+      "isIgnored": false,
+      "isRequired": true,
+      "defaultValue": "false"
     }
   ]
 }
