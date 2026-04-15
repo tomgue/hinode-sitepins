@@ -25,10 +25,17 @@
     {
       "name": "type",
       "label": "Type",
-      "type": "string",
-      "value": "",
+      "type": "Array",
+      "value": [],
       "isIgnored": false,
-      "defaultValue": ""
+      "defaultValue": "",
+      "subType": "string",
+      "isDropdown": true,
+      "referenceType": "static",
+      "options": [
+        "blog",
+        "docs"
+      ]
     },
     {
       "name": "author",
